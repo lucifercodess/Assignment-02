@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone X12",
+    "product_name": "X12 Pro Max",
+    "description": "A cutting-edge smartphone with a 6.7-inch OLED display, 128GB storage, and 48MP triple cameras.",
+    "price": "$999",
+    "image": "https://nothing.tech/cdn/shop/files/2048x1352BuyPage-BlackPhone-1.png?v=1720093601"
+  },
+  {
+    "id": 2,
+    "title": "Wireless Headphones YB200",
+    "product_name": "YB200 Noise Cancelling",
+    "description": "High-quality wireless headphones with active noise cancellation and 30 hours of battery life.",
+    "price": "$299",
+    "image": "https://guavastores.com/storage/2022/09/BT-200-4.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Gaming Laptop ZG15",
+    "product_name": "ZG15 Ultra Gaming",
+    "description": "A powerful gaming laptop featuring an Intel i9 processor, 32GB RAM, and NVIDIA RTX 4080 graphics card.",
+    "price": "$2499",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g16-7630/media-gallery/black/notebook-g16-7630-nt-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=320&wid=427&qlt=100,1&resMode=sharp2&size=427,320&chrss=full"
+  },
+  {
+    "id": 4,
+    "title": "4K Smart TV QLED 55\"",
+    "product_name": "QLED55 UHD Pro",
+    "description": "A 55-inch QLED 4K smart TV with HDR10 support and built-in streaming apps.",
+    "price": "$799",
+    "image": "https://res.cloudinary.com/sharp-consumer-eu/image/fetch/w_3000,f_auto/https://s3.infra.brandquad.io/accounts-media/SHRP/DAM/origin/529b7e34-6ab6-11ea-9b62-c26870b9ad9f.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Smart Watch SW80",
+    "product_name": "SW80 Health Tracker",
+    "description": "Fitness-focused smart watch with heart rate monitoring, GPS, and 7-day battery life.",
+    "price": "$199",
+    "image": "https://www.leafstudios.in/cdn/shop/files/1_1099cd20-7237-4bdf-a180-b7126de5ef3d_grande.png?v=1722230645"
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Speaker BTX50",
+    "product_name": "BTX50 Portable Speaker",
+    "description": "A portable Bluetooth speaker with deep bass, waterproof design, and 12-hour battery life.",
+    "price": "$149",
+    "image": "https://x.imastudent.com/content/0024227_jbl-partybox-310-portable-bluetooth-speaker-with-party-lights_500.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Tablet T10 Plus",
+    "product_name": "T10 Plus 10.5\" Tablet",
+    "description": "A versatile tablet with a 10.5-inch display, 8GB RAM, and support for digital pen input.",
+    "price": "$499",
+    "image": "https://www.maplestore.in/cdn/shop/files/iPad_Pro_13_M4_WiFi_Space_Black_PDP_Image_Position_1b__en-IN_98677c94-5d21-476b-9b6a-6e0d04151f26.jpg?v=1716466786&width=823"
+  },
+  {
+    "id": 8,
+    "title": "Home Assistant Hub HA300",
+    "product_name": "HA300 Smart Hub",
+    "description": "A smart home assistant with voice control, smart lighting integration, and music playback.",
+    "price": "$129",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/homepod-mini-select-midnight-202407_FV1_FMT_WHH?wid=1214&hei=566&fmt=jpeg&qlt=90&.v=1719853980357"
+  }
+]
